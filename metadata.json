@@ -1,0 +1,5 @@
+{
+  "name": "PDF Insight Chat",
+  "description": "Upload a PDF, convert its content to Markdown, and then chat with an AI assistant to ask questions and get insights from the document.",
+  "requestFramePermissions": []
+}
